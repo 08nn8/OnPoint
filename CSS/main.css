@@ -42,8 +42,15 @@
   transform: scale(1.1);
 }
 
-section {
+.content {
   padding-top: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-btn {
+   margin-top: 1.5em;
 }
 
 section button {
