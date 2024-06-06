@@ -15,7 +15,9 @@
 }
 
 .container img {
-  width: 20%;
+  position: relative;
+  width: 96px;
+  border-radius: 50%;
 }
 
 .container {
@@ -51,7 +53,7 @@
 
 .card-btn {
    margin-top: 1.5em;
-   padding-left: 0.1em;
+   padding-left: 0.10em;
 }
 
 section button {
