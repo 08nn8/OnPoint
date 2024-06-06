@@ -1,5 +1,7 @@
 ## Pinpoint
-![Screenshot 2024-05-22 095738](https://github.com/4ii0q/Pinpoint/assets/100587754/147bebea-62cc-46ca-a985-bd6d43762682)
+![Screenshot 2024-06-02 152415](https://github.com/4ii0q/Pinpoint/assets/100587754/f1bd2285-552a-4b6f-b6c3-7dab3e58c850)
+
+
 
 
 Pinpoint is Open Source collected All your links can change the design through git clone ↓
